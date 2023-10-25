@@ -1,0 +1,3 @@
+https://sanwei-test-instance.openai.azure.com/
+fb5221d02a1f452993fdda7cd1576cbc
+my-gtp-35
